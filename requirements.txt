@@ -1,0 +1,17 @@
+ipykernel
+pandas
+matplotlib
+numpy
+mplfinance
+TA-Lib
+scipy
+yahoofinancials
+yfinance
+keras
+seaborn
+tensorflow
+scikit-learn
+gym-trading-env
+stable-baselines3[extra]
+sb3-contrib
+pyarrow
